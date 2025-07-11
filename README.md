@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Python native projects analyzing industries such as Sports, Real estate or Investing**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Python/SQL related projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Garnix123?tab=repositories](https://github.com/Garnix123?tab=repositories)
 
