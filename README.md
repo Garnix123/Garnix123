@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/dominikvyleta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dominikvyleta" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/dominik.vyleta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dominik.vyleta/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@vyleta.dom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@vyleta.dom" height="30" width="40" /></a>
