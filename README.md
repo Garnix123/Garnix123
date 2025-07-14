@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Getting my Advanced Data Analytics certificate through Coursera. Working on couple projects every single week!**
 
-- 🌱 I’m currently learning **Python, SQL & Tableau **
+- 🌱 I’m currently learning **Python, SQL & Tableau**
 
 - 👯 I’m looking to collaborate on **Python native projects analyzing industries such as Sports, Real estate or Investing**
 
