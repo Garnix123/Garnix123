@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garnix123" alt="garnix123" /></a> </p>
 
-- 🔭 I’m currently working on **MySQL certification through Coursera. Working on couple projects every single week!**
+- 🔭 I’m currently working **on couple capstone projects every single week to build up my portfolio as Data Analyst.**
 
 - 🌱 I’m currently learning **Python, SQL & Tableau**
 
