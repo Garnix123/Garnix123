@@ -23,13 +23,7 @@
 
 - ⚡ Fun fact **I drink more coconut water than I spend on coffee—because tropical vibes beat caffeine any day.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/dominikvyleta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dominikvyleta" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/dominik.vyleta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dominik.vyleta/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@vyleta.dom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@vyleta.dom" height="30" width="40" /></a>
-</p>
+---
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,3 +46,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garnix123&show_icons=true&locale=en" alt="garnix123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garnix123&" alt="garnix123" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/dominikvyleta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dominikvyleta" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/dominik.vyleta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dominik.vyleta/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@vyleta.dom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@vyleta.dom" height="30" width="40" /></a>
+</p>
