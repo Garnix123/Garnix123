@@ -46,13 +46,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Garnix123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garnix123&show_icons=true&locale=en&layout=compact" alt="garnix123" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garnix123&show_icons=true&locale=en" alt="garnix123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garnix123&" alt="garnix123" /></p>
-
 ---
 
 <h3 align="left">Connect with me:</h3>
