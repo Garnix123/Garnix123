@@ -23,8 +23,6 @@
 
 - ⚡ Fun fact: **I drink more coconut water than I spend on coffee—because tropical vibes beat caffeine any day.**
 
-![](https://github-readme-stats.vercel.app/api?username=Garnix123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ---
 
 # 💻 Tech Stack
@@ -44,7 +42,12 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+---
+
+![](https://github-readme-stats.vercel.app/api?username=Garnix123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garnix123&show_icons=true&locale=en&layout=compact" alt="garnix123" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garnix123&show_icons=true&locale=en" alt="garnix123" /></p>
 
