@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garnix123" alt="garnix123" /></a> </p>
 
-- 👩🏻‍💻 Data/BI analyst sharing about my journey and learnings in tech
+- 👩🏻‍💻 Data/BI analyst sharing about his journey and learnings in tech
 
 - 👩🏻‍🎓 Studied MBA with a concentration in Data Analytics at Northern Michigan University, USA
 
 - ⚽ Former NCAA Soccer Player from 🇨🇿 – turning lessons in leadership & resilience into data-driven problem solving
 
-- 🔭 I’m currently working **on a couple of capstone projects every single week to build up my portfolio as a Data Analyst.**
+- 🔭 I’m currently working **on a couple of capstone projects, utilizing Tableau, Python and SQL, every single week to level up my portfolio as a Data Analyst.**
 
-- 👯 I’m looking to collaborate on **Python native projects analyzing industries such as Sports, Real estate or Investing**
+- 👯 I’m looking to collaborate on **Python & SQL native projects analyzing industries such as Banking, Healthcare, Investing, Sports or Real Estate**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Garnix123?tab=repositories](https://github.com/Garnix123?tab=repositories)
 
@@ -36,11 +36,15 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
