@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact: **I drink more coconut water than I spend on coffee—because tropical vibes beat caffeine any day.**
 
+![](https://github-readme-stats.vercel.app/api?username=Garnix123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ---
 
 # 💻 Tech Stack
