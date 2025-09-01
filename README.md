@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **Data analytics, investing, real estate, sports, healthy lifestyle**
 
-- 📫 How to reach me **vyleta.dom@gmail.com**
+- 📫 How to reach me: **vyleta.dom@gmail.com**
 
-- ⚡ Fun fact **I drink more coconut water than I spend on coffee—because tropical vibes beat caffeine any day.**
+- ⚡ Fun fact: **I drink more coconut water than I spend on coffee—because tropical vibes beat caffeine any day.**
 
 ---
 
