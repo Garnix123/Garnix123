@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garnix123" alt="garnix123" /></a> </p>
 
-- 👩🏻‍💻 Data/BI analyst sharing about his journey and learnings in tech
+- 👨‍💻 Data/BI analyst sharing about his journey and learnings in tech
 
-- 👩🏻‍🎓 Studied MBA with a concentration in Data Analytics at Northern Michigan University, USA
+- 👨‍🎓 Studied MBA with a concentration in Data Analytics at Northern Michigan University, USA
 
 - ⚽ Former NCAA Soccer Player from 🇨🇿 – turning lessons in leadership & resilience into data-driven problem solving
 
