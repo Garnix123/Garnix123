@@ -58,5 +58,6 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" height="30" 
+<a href="https://www.linkedin.com/in/dominikvyleta/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
