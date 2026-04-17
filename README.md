@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dominik Vyleta</h1>
-<h3 align="center">A passionate Data Analyst from Czech Republic</h3>
+<h3 align="center">A passionate Data Profesisonal from Czech Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garnix123&label=Profile%20views&color=0e75b6&style=flat" alt="garnix123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garnix123" alt="garnix123" /></a> </p>
 
-- 👨‍💻 Data/BI analyst sharing about his journey and learnings in tech
-
-- 👨‍🎓 Studied MBA with a concentration in Data Analytics at Northern Michigan University, USA
-
-- ⚽ Former NCAA Soccer Player from 🇨🇿 – turning lessons in leadership & resilience into data-driven problem solving
-
-- 🔭 I’m currently working **on a couple of capstone projects, utilizing Tableau, Python and SQL, every single week to level up my portfolio as a Data Analyst.**
-
-- 👯 I’m looking to collaborate on **Python & SQL native projects analyzing industries such as Banking, Healthcare, Investing, Sports or Real Estate**
+- 💼 Currently working as an **Associate Data Engineer — IT Corporate** at a Fortune-500 research and advisory firm in the tech industry
+  
+- 🔧 I build **Python / pandas ETL pipelines** that power custom market-research deliverables — turning messy multi-source data into clean, reproducible outputs for analysts and clients
+  
+- 👨‍🎓 MBA with a concentration in Data Analytics from Northern Michigan University, USA
+  
+- ⚽ Former NCAA Soccer Player from 🇨🇿 — turning lessons in leadership & resilience into data-driven problem solving
+  
+- 🔭 Outside of work, I'm **building out my public GitHub portfolio** with Python, SQL projects across industries I'm curious about
 
 - 👨‍💻 All of my projects are available at [https://github.com/Garnix123?tab=repositories](https://github.com/Garnix123?tab=repositories)
 
@@ -54,8 +54,4 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/dominikvyleta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dominikvyleta" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/dominik.vyleta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dominik.vyleta/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@vyleta.dom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@vyleta.dom" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominik-vyleta-mba-a566511b2/" height="30" 
