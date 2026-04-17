@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dominik Vyleta</h1>
 <h3 align="center">A passionate Data Profesisonal from Czech Republic</h3>
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"/>
+  Hi, I'm Dominik Vyleta
+</h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+%26+BI+Engineer+from+Czech+Republic+%F0%9F%87%A8%F0%9F%87%BF;Associate+Data+Engineer+%E2%80%94+IT+Corporate;Python+%E2%80%A2+pandas+%E2%80%A2+SQL+%E2%80%A2+ETL;MBA+in+Data+Analytics+%7C+Ex-NCAA+Soccer" alt="typing animation"/>
+  </a>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garnix123&label=Profile%20views&color=0e75b6&style=flat" alt="garnix123" /> </p>
 
 <p align="left"><img src="https://streak-stats.demolab.com/?user=Garnix123&theme=radical&hide_border=false" alt="Garnix123 streak" /></p>
